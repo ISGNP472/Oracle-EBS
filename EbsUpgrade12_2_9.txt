@@ -1,0 +1,9 @@
+•	https://docs.oracle.com/cd/E26401_01/doc.122/e73540/toc.htm
+•	Oracle E-Business Suite Release Notes, Release 12.2 (Doc ID 1320300.1)
+•	Oracle E-Business Suite Release 12.2.9 Readme (Doc ID 2495027.1)
+•	Oracle E-Business Suite Installation and Upgrade Notes Release 12 (12.2) for Linux x86-64 (Doc ID 1330701.1)
+•	Sharing The Application Tier File System in Oracle E-Business Suite Release 12.2 (Doc ID: 1375769.1)
+•	Using Load-Balancers with Oracle E-Business Suite Release 12.2 (Doc ID: 1375686.1)
+•	Guidance for Integrating Custom and Third-Party Products With Oracle E-Business Suite Release 12.2 (Doc ID: 1916149.1)
+•	Using the Online Patching Readiness Report in Oracle E-Business Suite Release 12.2 (Doc ID 1531121.1)
+•	Developing and Deploying Customizations in Oracle E-Business Suite Release 12.2 (Doc ID 1577661.1)
